@@ -1,0 +1,12 @@
+Models\Database.class
+Models\Messages.class
+Controllers\AddController.class
+Models\Category.class
+Models\Note.class
+Models\Views.class
+Controllers\MainController.class
+Main.class
+Controllers\NoteController.class
+Controller.class
+Service\ServeDatabase.class
+Controllers\CategoryController.class
